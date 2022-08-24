@@ -1,0 +1,21 @@
+{
+    "url":"https://code-verse.tech/",
+    "instagram-url":"https://www.instagram.com/",
+    "howitworks-url":"https://code-verse.tech/how-it-works",
+    "hiringyou-url":"https://code-verse.tech/work-with-us",
+    "hiringus-url":"https://code-verse.tech/hire-codeverse",
+    "linkedin-url":"https://www.linkedin.com/company/codeverse-io/",
+    "hiring you":{
+        "Name":"John",
+        "Lastname":"Incremental",
+        "linkedin_url":"https://www.linkedin.com/company/codeverse-io/",
+        "email":"johnincremental@gmail.com",
+        "message":"Mensaje de prueba, work with us section"
+    },
+    "hiring us":{
+        "Name":"John",
+        "Lastname":"Incremental",
+        "email":"johnincremental@gmail.com",
+        "message":"Mensaje de prueba, hire codeverse section"
+    }
+}

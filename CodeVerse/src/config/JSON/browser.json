@@ -1,0 +1,5 @@
+{
+    "browser":"Chrome",
+    "wait":10,
+    "maximize":"True"
+}
